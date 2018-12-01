@@ -1,5 +1,5 @@
 # Calling-Methods
-//This is a simple program displaying how to call methods.
+This is a simple program displaying how to call methods.
 
 import java.util. Scanner;
 public class CallingMethods {
